@@ -2,7 +2,7 @@
 
 ## ✌️ About me
 * 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
-* 💻 Senior Software Developer at [Business Applications Solutions](https://www.bas.kz/?hl=ru)
+* 💻 Open to work as an iOS Developer
 * 📱 Learning Swift and iOS Development
 
 ## 🧑‍💻 Top Languages
@@ -16,7 +16,7 @@
 ---
 
 ## 📧 Connect with me
-<a href="https://t.me/KizatovArman"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/telegram.svg" width="60" height="60"/></a><a href="mailto:kizatov.armashka.05@gmail.com"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" width="60" height="60"/></a><a href="https://www.linkedin.com/in/KizatovArman/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" width="60" height="60"/></a>
+<a href="https://t.me/KizatovArman"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/telegram/telegram.svg" width="60" height="60"/></a><a href="mailto:kizatov.armashka.05@gmail.com"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" width="60" height="60"/></a><a href="https://www.linkedin.com/in/KizatovArman/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" width="60" height="60"/></a>
 
 # Thanks for reaching until here!
 ⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⡿⣷⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
